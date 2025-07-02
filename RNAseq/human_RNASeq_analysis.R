@@ -1,3 +1,5 @@
+# This file contains the analysis for human RNAseq data
+
 # setup -------------------------------------------------------------------
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
