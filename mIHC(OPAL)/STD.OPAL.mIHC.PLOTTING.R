@@ -1,5 +1,4 @@
-# title: "MS LPS OPAL SPONTANEOUS CELL % ANALYSIS"
-# author: "EMMA KENNA (ekenna@umich.edu)"
+# This file was used to generate the mIHC OPAL analysis & figures for the standard panel
 
 ### LIBRARIES
 library(tidyverse)
