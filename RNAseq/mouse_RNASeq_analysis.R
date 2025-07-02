@@ -1,3 +1,5 @@
+# This file contains the mouse RNAseq analysis
+
 # setup -------------------------------------------------------------------
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
