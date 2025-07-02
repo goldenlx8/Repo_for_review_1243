@@ -1,5 +1,4 @@
-title: "3D PCA HUMAN & MOUSE LPS v NORMAL FAT"
-author: "EMMA KENNA (ekenna@umich.edu)"
+# This file contains the reanalysis of the DDLPS mouse v human PCA plot
 
 # LOADING PACKAGES --------------------------------------------------------
 
