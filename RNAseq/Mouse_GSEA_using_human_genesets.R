@@ -1,3 +1,5 @@
+# This file contains the analysis for the mouse GSEA plots from human gene sets
+
 # setup -------------------------------------------------------------------
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
