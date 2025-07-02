@@ -1,0 +1,869 @@
+Mouse# / gating level ,Statistic (%) ,# of Cells
+1023 Tumor.fcs,,11272512
+1023 Tumor.fcs/Lymphocytes,9.02,1017256
+1023 Tumor.fcs/Lymphocytes/Single Cells,96.5,981584
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live,19.4,190502
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,84.4,160761
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,50.9,81896
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,31.8,26028
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,26.3,21507
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,84.8,18243
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,4.47,962
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,5.32,1145
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,90.3,19419
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,77.2,16607
+1023 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1044 TUMOR.fcs,,9636776
+1044 TUMOR.fcs/Lymphocytes,3.78,364656
+1044 TUMOR.fcs/Lymphocytes/Single Cells,90,328030
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live,30.1,98694
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+,86.9,85801
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,28.5,24476
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,55.4,13558
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,24.7,6047
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,79.6,4813
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,6.83,413
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,17.3,1045
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,15.3,925
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,33,1994
+1044 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1045 Tumor.fcs,,15577672
+1045 Tumor.fcs/Lymphocytes,5.28,822815
+1045 Tumor.fcs/Lymphocytes/Single Cells,94.2,774997
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live,67.8,525583
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,70.4,369896
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,22.9,84615
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,52.9,44797
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,13.9,11756
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,0.61,72
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0.043,5
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,19.5,2294
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,2.14,252
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,14.6,1714
+1045 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1063 Tumor.fcs,,4342656
+1063 Tumor.fcs/Lymphocytes,22.7,986429
+1063 Tumor.fcs/Lymphocytes/Single Cells,96.2,948881
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live,67.5,640580
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,94.2,603571
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,10.5,63085
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,49.7,31358
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,26.8,16918
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,52.3,8846
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,5.83,987
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,25.3,4275
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,14.3,2421
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,22.3,3769
+1063 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1088 Tumor.fcs,,11194392
+1088 Tumor.fcs/Lymphocytes,18.2,2035371
+1088 Tumor.fcs/Lymphocytes/Single Cells,88.8,1807392
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live,48.7,880273
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,74.9,659244
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,15.1,99411
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,37.4,37223
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,29,28803
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,71.2,20521
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.97,566
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,5.82,1677
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,23.7,6820
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,41.7,12015
+1088 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1103 Tumor.fcs,,8883872
+1103 Tumor.fcs/Lymphocytes,8.1,719947
+1103 Tumor.fcs/Lymphocytes/Single Cells,88.9,640194
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live,53.7,344078
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,90.2,310314
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,24.8,76810
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,40.6,31165
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,35.6,27332
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,66.4,18139
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.69,461
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,6.66,1819
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,19.1,5233
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,23.3,6381
+1103 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1107 Tumor.fcs,,6378832
+1107 Tumor.fcs/Lymphocytes,9.44,602476
+1107 Tumor.fcs/Lymphocytes/Single Cells,93,560491
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live,80.5,451464
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,86.6,391167
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,24.8,97150
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,68.2,66253
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,10,9719
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,58.3,5671
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,4.51,438
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,19.6,1906
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,15.6,1515
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,45.2,4391
+1107 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1108 Tumor.fcs,,4902856
+1108 Tumor.fcs/Lymphocytes,10.9,535041
+1108 Tumor.fcs/Lymphocytes/Single Cells,95.8,512584
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live,67.9,347816
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,87.8,305455
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,10.2,31268
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,48.5,15168
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,16.7,5225
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,44.7,2335
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,7.98,417
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,33,1725
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,12.7,661
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,30.9,1617
+1108 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1109 Tumor.fcs,,5864936
+1109 Tumor.fcs/Lymphocytes,10.5,614091
+1109 Tumor.fcs/Lymphocytes/Single Cells,97.1,596022
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live,66.9,398801
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,89.8,358063
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,24.7,88576
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,59.1,52318
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,17.3,15316
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,54.5,8340
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,5.54,849
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,18.3,2801
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,7.33,1122
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,30.6,4688
+1109 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1112 tumor.fcs,,12411360
+1112 tumor.fcs/Lymphocytes,10.2,1269713
+1112 tumor.fcs/Lymphocytes/Single Cells,90.3,1146840
+1112 tumor.fcs/Lymphocytes/Single Cells/Live,23,263642
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,74.8,197146
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,35.7,70397
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,49,34483
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,34.2,24076
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,86.6,20857
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.77,425
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,4.96,1193
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,11,2646
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,66.1,15915
+1112 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.3,4542
+1124 tumor.fcs,,2935112
+1124 tumor.fcs/Lymphocytes,11.8,346653
+1124 tumor.fcs/Lymphocytes/Single Cells,93.6,324300
+1124 tumor.fcs/Lymphocytes/Single Cells/Live,50,162252
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,85.7,139096
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,24.2,33727
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,43.4,14635
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,37.3,12583
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,74.4,9359
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,4.58,576
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,10.7,1350
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,13,1636
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,60,7544
+1124 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.58,3591
+1125 tumor.fcs,,6478728
+1125 tumor.fcs/Lymphocytes,15.6,1007466
+1125 tumor.fcs/Lymphocytes/Single Cells,97,977599
+1125 tumor.fcs/Lymphocytes/Single Cells/Live,48.6,475565
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,63.4,301742
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,4.99,15061
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,37.7,5673
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,23.8,3578
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,83.7,2993
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.84,66
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,4.97,178
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,5.17,185
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,35.1,1255
+1125 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0.38,1150
+1126 Tumor.fcs,,12794008
+1126 Tumor.fcs/Lymphocytes,7.2,921288
+1126 Tumor.fcs/Lymphocytes/Single Cells,93.1,857552
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live,59.4,509760
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,95.1,484733
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,25.5,123759
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,62.6,77463
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,16.3,20228
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,72.4,14638
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,7.03,1423
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,14,2829
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,17.4,3517
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,53.1,10740
+1126 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1127 Tumor.fcs,,12447928
+1127 Tumor.fcs/Lymphocytes,6.79,845228
+1127 Tumor.fcs/Lymphocytes/Single Cells,95,802547
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live,57,457352
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,94.5,432336
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,27.1,117121
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,60,70245
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,20.4,23910
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,56.6,13522
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,6.7,1603
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,16.7,3995
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,19.5,4674
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,41,9803
+1127 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1127 dead spleen.fcs,,14813
+1127 dead spleen.fcs/Lymphocytes,0.22,32
+1127 dead spleen.fcs/Lymphocytes/Single Cells,100,32
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live,3.12,1
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,0,0
+1127 dead spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1127 unstained spleen.fcs,,7213
+1127 unstained spleen.fcs/Lymphocytes,61.3,4421
+1127 unstained spleen.fcs/Lymphocytes/Single Cells,93.8,4145
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live,100,4145
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,0,0
+1127 unstained spleen.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1131 Tumor fresh.fcs,,12235800
+1131 Tumor fresh.fcs/Lymphocytes,15.2,1856712
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells,97.1,1803112
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live,90.1,1623747
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+,11.4,184907
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,15.6,28823
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,39.7,11440
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,20.1,5807
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,0,0
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0,0
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,33.4,1937
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,0,0
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,37.5,2176
+1131 Tumor fresh.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1138 TUMOR.fcs,,312528
+1138 TUMOR.fcs/Lymphocytes,10.2,31971
+1138 TUMOR.fcs/Lymphocytes/Single Cells,92.9,29710
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live,21.1,6272
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+,67.7,4249
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,13.6,576
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,18.2,105
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,10.9,63
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,74.6,47
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.59,1
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,4.76,3
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,27,17
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,60.3,38
+1138 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,6.78,288
+1139 TUMOR.fcs,,1132248
+1139 TUMOR.fcs/Lymphocytes,14.8,167853
+1139 TUMOR.fcs/Lymphocytes/Single Cells,96,161086
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live,65.9,106090
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+,83.6,88647
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,19.3,17141
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,31.2,5347
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,33.7,5768
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,9.93,573
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,5.84,337
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,73.2,4221
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,2.41,139
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,6.45,372
+1139 TUMOR.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,5.18,4594
+1163 tumor.fcs,,4468984
+1163 tumor.fcs/Lymphocytes,12.6,562875
+1163 tumor.fcs/Lymphocytes/Single Cells,92.2,518972
+1163 tumor.fcs/Lymphocytes/Single Cells/Live,72.1,374339
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,95,355688
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,27.7,98676
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,21.9,21562
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,41,40481
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,62.7,25391
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.75,710
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,11.3,4572
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,2.98,1207
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,34.3,13893
+1163 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,5.31,18890
+1164 tumor.fcs,,7743680
+1164 tumor.fcs/Lymphocytes,14,1082391
+1164 tumor.fcs/Lymphocytes/Single Cells,95,1028033
+1164 tumor.fcs/Lymphocytes/Single Cells/Live,55.5,570794
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,19,108383
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,9.39,10179
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,61,6213
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,22.1,2250
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,67.6,1521
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,10,226
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,25,563
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,1.51,34
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,39,877
+1164 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0.63,679
+1165 dead.fcs,,10600
+1165 dead.fcs/Lymphocytes,0.41,43
+1165 dead.fcs/Lymphocytes/Single Cells,100,43
+1165 dead.fcs/Lymphocytes/Single Cells/Live,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,0,0
+1165 dead.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+1165 tumor.fcs,,12625968
+1165 tumor.fcs/Lymphocytes,7.23,912413
+1165 tumor.fcs/Lymphocytes/Single Cells,92.2,841671
+1165 tumor.fcs/Lymphocytes/Single Cells/Live,35.3,297126
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,54,160306
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,13.3,21378
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,41.1,8788
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,29,6197
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,75.1,4657
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.94,120
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,14.8,915
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,1.16,72
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,63.9,3957
+1165 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.49,3997
+1177 tumor.fcs,,21072520
+1177 tumor.fcs/Lymphocytes,10,2106589
+1177 tumor.fcs/Lymphocytes/Single Cells,90.4,1905187
+1177 tumor.fcs/Lymphocytes/Single Cells/Live,17.1,325757
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,37.9,123328
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,15.3,18928
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,43.8,8283
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,35.3,6675
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,79.3,5293
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.21,81
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,6.88,459
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,3.15,210
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,61.7,4119
+1177 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.04,2510
+1178 tumor.fcs,,17187424
+1178 tumor.fcs/Lymphocytes,5.14,883120
+1178 tumor.fcs/Lymphocytes/Single Cells,92.1,813265
+1178 tumor.fcs/Lymphocytes/Single Cells/Live,24.3,198000
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,78.3,155008
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,30.3,46897
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,57.3,26850
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,23.4,10956
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,83.9,9188
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.61,176
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,6.98,765
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,6.28,688
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,60.6,6639
+1178 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.66,4127
+1179 tumor.fcs,,3027728
+1179 tumor.fcs/Lymphocytes,9.83,297536
+1179 tumor.fcs/Lymphocytes/Single Cells,95,282661
+1179 tumor.fcs/Lymphocytes/Single Cells/Live,1.55,4370
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,22.2,972
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,4.42,43
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,18.6,8
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,2.33,1
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,0,0
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0,0
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,100,1
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,0,0
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,0,0
+1179 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,8.23,80
+1180 tumor.fcs,,3611032
+1180 tumor.fcs/Lymphocytes,15,541451
+1180 tumor.fcs/Lymphocytes/Single Cells,87.7,474933
+1180 tumor.fcs/Lymphocytes/Single Cells/Live,17.9,85152
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,73.4,62479
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,10.2,6347
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,50.8,3223
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,21.5,1367
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,66,902
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.98,27
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,7.61,104
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,6.07,83
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,29.2,399
+1180 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,1.57,980
+1182 tumor.fcs,,13375984
+1182 tumor.fcs/Lymphocytes,8.35,1116376
+1182 tumor.fcs/Lymphocytes/Single Cells,86.7,968011
+1182 tumor.fcs/Lymphocytes/Single Cells/Live,28.1,271843
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,56,152245
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,20.6,31385
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,41.7,13086
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,25.7,8058
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,77.3,6231
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,7.32,590
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,18.4,1484
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,4.19,338
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,32.6,2629
+1182 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.94,4472
+1183 tumor.fcs,,9465152
+1183 tumor.fcs/Lymphocytes,6.25,591807
+1183 tumor.fcs/Lymphocytes/Single Cells,97.2,575329
+1183 tumor.fcs/Lymphocytes/Single Cells/Live,56.4,324769
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,92.7,301175
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,26.2,79017
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,39.2,30968
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,14.2,11210
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,56.7,6352
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,5.06,567
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,32.5,3644
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,3.76,421
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,28.3,3177
+1183 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.11,9360
+1184 tumor.fcs,,22765344
+1184 tumor.fcs/Lymphocytes,12.1,2744003
+1184 tumor.fcs/Lymphocytes/Single Cells,92.2,2531032
+1184 tumor.fcs/Lymphocytes/Single Cells/Live,0.51,12851
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,39.6,5089
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,15.3,780
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,55.1,430
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,16.3,127
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,54.3,69
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,6.3,8
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,30.7,39
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,5.51,7
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,24.4,31
+1184 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,4.89,249
+1185 tumor.fcs,,2883064
+1185 tumor.fcs/Lymphocytes,6.48,186774
+1185 tumor.fcs/Lymphocytes/Single Cells,81.7,152650
+1185 tumor.fcs/Lymphocytes/Single Cells/Live,26.9,41003
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,71.7,29379
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,5.4,1587
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,32.5,515
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,17.8,283
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,66.4,188
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.06,3
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,7.42,21
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,4.59,13
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,36,102
+1185 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.49,1024
+1186 tumor.fcs,,4882640
+1186 tumor.fcs/Lymphocytes,3.33,162683
+1186 tumor.fcs/Lymphocytes/Single Cells,62.1,100974
+1186 tumor.fcs/Lymphocytes/Single Cells/Live,19.2,19371
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,35.8,6935
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,15.6,1082
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,58,628
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,29.5,319
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,27.6,88
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0.63,2
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,41.4,132
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,3.76,12
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,17.2,55
+1186 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,11.4,792
+1188 tumor.fcs,,17678600
+1188 tumor.fcs/Lymphocytes,6.71,1186805
+1188 tumor.fcs/Lymphocytes/Single Cells,92.3,1095007
+1188 tumor.fcs/Lymphocytes/Single Cells/Live,6.12,67066
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,83.8,56205
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,7.62,4281
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,52,2225
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,24.4,1043
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,65.5,683
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,2.4,25
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,14.2,148
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,1.92,20
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,40.8,426
+1188 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.01,1130
+1189 tumor.fcs,,13011456
+1189 tumor.fcs/Lymphocytes,4.86,632477
+1189 tumor.fcs/Lymphocytes/Single Cells,91.4,578178
+1189 tumor.fcs/Lymphocytes/Single Cells/Live,53.8,310930
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,93.7,291253
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,24.8,72175
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,46.8,33757
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,41,29573
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,81.4,24066
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.28,379
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,3.75,1110
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,9.85,2913
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,62.5,18475
+1189 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.22,9369
+1192 tumor.fcs,,6973188
+1192 tumor.fcs/Lymphocytes,12.2,849007
+1192 tumor.fcs/Lymphocytes/Single Cells,96.6,820276
+1192 tumor.fcs/Lymphocytes/Single Cells/Live,81.2,665783
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,96.3,641217
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,32.3,206849
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,47.2,97710
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,9.46,19572
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,51.7,10126
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,6.19,1212
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,37.8,7399
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,6.56,1283
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,37.1,7268
+1192 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,1.6,10236
+1193 tumor.fcs,,9658400
+1193 tumor.fcs/Lymphocytes,6.77,653614
+1193 tumor.fcs/Lymphocytes/Single Cells,91.3,596820
+1193 tumor.fcs/Lymphocytes/Single Cells/Live,72,429492
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,88.2,378694
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,44.6,168944
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,37.7,63743
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,46.2,77975
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,89.8,69994
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,2.34,1826
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,5.89,4596
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,1.18,922
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,75.5,58887
+1193 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,7.74,29317
+1194 tumor.fcs,,8059872
+1194 tumor.fcs/Lymphocytes,11.8,952049
+1194 tumor.fcs/Lymphocytes/Single Cells,88.2,839837
+1194 tumor.fcs/Lymphocytes/Single Cells/Live,49.2,413581
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,88.6,366284
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,21,76761
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,46.6,35763
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,16.3,12518
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,62.8,7858
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,7.04,881
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,17.9,2239
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,4.05,507
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,35.7,4469
+1194 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,8.55,31319
+1195 tumor.fcs,,16488392
+1195 tumor.fcs/Lymphocytes,9.06,1493810
+1195 tumor.fcs/Lymphocytes/Single Cells,93.4,1395843
+1195 tumor.fcs/Lymphocytes/Single Cells/Live,25,349569
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,88.8,310252
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,31.4,97266
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,29.5,28739
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,34.8,33880
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,76.7,25971
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,2.6,881
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,6.66,2258
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,1.69,574
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,19,6449
+1195 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.6,8064
+1196 tumor.fcs,,7072080
+1196 tumor.fcs/Lymphocytes,7.46,527604
+1196 tumor.fcs/Lymphocytes/Single Cells,92.6,488815
+1196 tumor.fcs/Lymphocytes/Single Cells/Live,50.7,247918
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,89.3,221301
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,30.4,67379
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,61.5,41466
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,20.9,14098
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,70.2,9893
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,6.71,946
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,9.95,1403
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,9.19,1296
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,50.9,7173
+1196 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,1.73,3828
+1201 tumor.fcs,,12650936
+1201 tumor.fcs/Lymphocytes,1.69,213902
+1201 tumor.fcs/Lymphocytes/Single Cells,93.6,200139
+1201 tumor.fcs/Lymphocytes/Single Cells/Live,77.8,155790
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,89.1,138869
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,20.3,28192
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,46.3,13043
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,24.3,6841
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,67.1,4590
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,11.7,802
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,24.4,1667
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,8.51,582
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,31.5,2152
+1201 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,7.08,9829
+1202 tumor.fcs,,17288712
+1202 tumor.fcs/Lymphocytes,2.11,365022
+1202 tumor.fcs/Lymphocytes/Single Cells,93.9,342908
+1202 tumor.fcs/Lymphocytes/Single Cells/Live,45.5,155878
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,75,116840
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,24.5,28609
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,40.8,11672
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,33.7,9651
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,66.2,6385
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,2.67,258
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,10.8,1042
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,9.84,950
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,44.6,4306
+1202 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.76,4393
+1203 tumor.fcs,,10532712
+1203 tumor.fcs/Lymphocytes,2.56,269506
+1203 tumor.fcs/Lymphocytes/Single Cells,94.1,253575
+1203 tumor.fcs/Lymphocytes/Single Cells/Live,71.9,182380
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,90.2,164497
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,46.9,77187
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,62.1,47935
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,19.4,14957
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,64.4,9627
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,9.99,1494
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,23.7,3542
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,12.6,1881
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,24.6,3674
+1203 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,6.3,10363
+1204 tumor.fcs,,24767968
+1204 tumor.fcs/Lymphocytes,2.55,632186
+1204 tumor.fcs/Lymphocytes/Single Cells,94.8,599147
+1204 tumor.fcs/Lymphocytes/Single Cells/Live,22.7,136222
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,85.1,115865
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,37.5,43503
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,40.3,17540
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,35.4,15388
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,64.1,9863
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,5.52,850
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,17.5,2691
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,18.4,2836
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,42.7,6566
+1204 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,14.1,16280
+1205 tumor.fcs,,11242088
+1205 tumor.fcs/Lymphocytes,4.23,475592
+1205 tumor.fcs/Lymphocytes/Single Cells,96.2,457657
+1205 tumor.fcs/Lymphocytes/Single Cells/Live,61.9,283439
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,94.2,266901
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,38.5,102644
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,50,51271
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,28.5,29303
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,80.3,23535
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,3.76,1103
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,7.42,2175
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,24.3,7130
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,52.3,15316
+1205 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.09,8242
+1206 tumor.fcs,,14879120
+1206 tumor.fcs/Lymphocytes,4.71,700079
+1206 tumor.fcs/Lymphocytes/Single Cells,91.9,643401
+1206 tumor.fcs/Lymphocytes/Single Cells/Live,39.1,251411
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,67.4,169529
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,27.8,47174
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,49.6,23388
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,9.25,4365
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,59.5,2596
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,8.59,375
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,30.4,1327
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,2.91,127
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,32.3,1411
+1206 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,5.05,8553
+1207 tumor.fcs,,14419192
+1207 tumor.fcs/Lymphocytes,6.39,921175
+1207 tumor.fcs/Lymphocytes/Single Cells,95.6,880584
+1207 tumor.fcs/Lymphocytes/Single Cells/Live,42.1,370556
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,89.5,331682
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,40.8,135400
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,51.3,69509
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,22.8,30919
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,81.8,25297
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,9.45,2921
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,16.3,5048
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,12.8,3973
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,37.8,11686
+1207 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.33,11061
+1208 tumor.fcs,,14615496
+1208 tumor.fcs/Lymphocytes,3.55,518741
+1208 tumor.fcs/Lymphocytes/Single Cells,94.3,489293
+1208 tumor.fcs/Lymphocytes/Single Cells/Live,54.6,267267
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,95.3,254839
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,31.6,80584
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,51.1,41197
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,26,20946
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,70.3,14720
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,12.7,2660
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,28.7,6009
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,4.16,871
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,37.5,7851
+1208 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,9.31,23737
+1210 tumor.fcs,,11076504
+1210 tumor.fcs/Lymphocytes,1.94,214725
+1210 tumor.fcs/Lymphocytes/Single Cells,93.7,201297
+1210 tumor.fcs/Lymphocytes/Single Cells/Live,74.5,150011
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,86.8,130189
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,34,44277
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,36.2,16022
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,44.3,19621
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,90.2,17706
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,3.47,680
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,9.75,1913
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,34,6677
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,81.7,16022
+1210 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,5.88,7661
+1211 tumor.fcs,,12781472
+1211 tumor.fcs/Lymphocytes,2.72,348007
+1211 tumor.fcs/Lymphocytes/Single Cells,94.6,329265
+1211 tumor.fcs/Lymphocytes/Single Cells/Live,28.7,94374
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,90.7,85605
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,12.4,10609
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,47.3,5016
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,34.4,3649
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,56.3,2053
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,3.67,134
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,12.6,458
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,7.56,276
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,31.4,1146
+1211 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,2.43,2080
+1212 tumor.fcs,,12408800
+1212 tumor.fcs/Lymphocytes,1.8,223637
+1212 tumor.fcs/Lymphocytes/Single Cells,92.7,207302
+1212 tumor.fcs/Lymphocytes/Single Cells/Live,36.2,74940
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,74.3,55690
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,15.3,8503
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,53.9,4583
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,27.2,2311
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,66.8,1544
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,6.14,142
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,18.6,429
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,10.9,252
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,37.8,874
+1212 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.04,1693
+1213 tumor.fcs,,10188272
+1213 tumor.fcs/Lymphocytes,5.95,606418
+1213 tumor.fcs/Lymphocytes/Single Cells,95.2,577177
+1213 tumor.fcs/Lymphocytes/Single Cells/Live,52.8,304883
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,50.9,155301
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,18.2,28196
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,35.8,10090
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,18.9,5341
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,64.7,3453
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,5.49,293
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,20.1,1074
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,9.04,483
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,20.1,1072
+1213 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.52,5459
+1214 tumor.fcs,,11292464
+1214 tumor.fcs/Lymphocytes,4.45,502310
+1214 tumor.fcs/Lymphocytes/Single Cells,92.8,466224
+1214 tumor.fcs/Lymphocytes/Single Cells/Live,73.6,343335
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,65,223337
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,24.1,53770
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,27.8,14930
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,25.7,13827
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,73.2,10127
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,6.98,965
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,15.9,2205
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,15.9,2204
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,52.1,7201
+1214 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,3.12,6968
+1239 tumor.fcs,,11173821
+1239 tumor.fcs/Lymphocytes,1.85,206727
+1239 tumor.fcs/Lymphocytes/Single Cells,92.9,192097
+1239 tumor.fcs/Lymphocytes/Single Cells/Live,84.7,162740
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,88.3,143629
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,32.5,46701
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,62.3,29109
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,20.7,9648
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,56.6,5463
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,6.52,629
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,17.8,1713
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,25.3,2441
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,2.3,222
+1239 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,7.17,10298
+1240 tumor.fcs,,14089890
+1240 tumor.fcs/Lymphocytes,1.62,228687
+1240 tumor.fcs/Lymphocytes/Single Cells,93.1,212915
+1240 tumor.fcs/Lymphocytes/Single Cells/Live,65.3,139102
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,84.7,117883
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,20.3,23925
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,41,9812
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,36.5,8732
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,66.3,5788
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,5.54,484
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,19.9,1739
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,36,3141
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,3.88,339
+1240 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,12.6,14883
+1243 tumor.fcs,,6631022
+1243 tumor.fcs/Lymphocytes,3.17,210425
+1243 tumor.fcs/Lymphocytes/Single Cells,95.6,201147
+1243 tumor.fcs/Lymphocytes/Single Cells/Live,88.4,177873
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,91.1,162000
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,44.2,71651
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,35.5,25424
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,36.6,26236
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,83.2,21836
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,2.25,590
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,5.75,1509
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,12.9,3385
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,43.6,11427
+1243 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,4.56,7385
+1244 Tumor.fcs,,8306485
+1244 Tumor.fcs/Lymphocytes,0.91,75217
+1244 Tumor.fcs/Lymphocytes/Single Cells,95,71443
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live,69.3,49481
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,89.2,44133
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,61.4,27119
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,38.7,10487
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,32.8,8884
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,88.9,7899
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,3.5,311
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,10.2,906
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,9.04,803
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,37.6,3343
+1244 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,14.2,6253
+1245 tumor.fcs,,8564464
+1245 tumor.fcs/Lymphocytes,3.43,294053
+1245 tumor.fcs/Lymphocytes/Single Cells,96.3,283066
+1245 tumor.fcs/Lymphocytes/Single Cells/Live,73.4,207892
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,96.4,200473
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,61.3,122967
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,24.7,30428
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,52.7,64782
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,92.1,59676
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,1.89,1225
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,4.27,2765
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,13.7,8873
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,42.1,27242
+1245 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,5.09,10212
+1249 tumor.fcs,,6898754
+1249 tumor.fcs/Lymphocytes,2.08,143409
+1249 tumor.fcs/Lymphocytes/Single Cells,94.6,135594
+1249 tumor.fcs/Lymphocytes/Single Cells/Live,61.7,83605
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,95.4,79719
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,51.6,41125
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,38.4,15802
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,31.1,12777
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,73.1,9336
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,2.22,284
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,4.38,560
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,16.6,2118
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,48.8,6230
+1249 tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,9.06,7224
+1252 Tumor.fcs,,6798993
+1252 Tumor.fcs/Lymphocytes,1.29,87442
+1252 Tumor.fcs/Lymphocytes/Single Cells,97.7,85445
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live,63.4,54151
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,74.8,40489
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,52.3,21168
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,49.5,10470
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,26,5500
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,81.6,4490
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,2.62,144
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,12.4,684
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,27.3,1501
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,58.1,3195
+1252 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,9.62,3894
+1253 Tumor.fcs,,7512604
+1253 Tumor.fcs/Lymphocytes,3.16,237547
+1253 Tumor.fcs/Lymphocytes/Single Cells,98,232778
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live,70.7,164475
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,97,159617
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,50.6,80846
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,32.3,26118
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,42.8,34637
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,82.8,28665
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,3.88,1345
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,7.21,2499
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,12.5,4315
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,29.8,10335
+1253 Tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,10.9,17331
+UNS tumor.fcs,,27144
+UNS tumor.fcs/Lymphocytes,4.09,1109
+UNS tumor.fcs/Lymphocytes/Single Cells,96.1,1066
+UNS tumor.fcs/Lymphocytes/Single Cells/Live,100,1066
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,0.19,2
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,0,0
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,0,0
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,0,0
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,0,0
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0,0
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,0,0
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,0,0
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,0,0
+UNS tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0
+dead tumor.fcs,,213496
+dead tumor.fcs/Lymphocytes,2.14,4568
+dead tumor.fcs/Lymphocytes/Single Cells,95.6,4365
+dead tumor.fcs/Lymphocytes/Single Cells/Live,65.8,2873
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+,0.07,2
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+,0,0
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD4+,0,0
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+,0,0
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+,0,0
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD69+ CD103+,0,0
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/CD103+,0,0
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/LAG3+,0,0
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD3+/CD8+/PD-1+,0,0
+dead tumor.fcs/Lymphocytes/Single Cells/Live/CD45+/CD19+,0,0

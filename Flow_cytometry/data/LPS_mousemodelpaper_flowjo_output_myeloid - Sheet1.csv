@@ -1,0 +1,590 @@
+Mouse # / gating level,Statistic (%),# of Cells
+1112 tumor.fcs,12411360,
+1112 tumor.fcs/All Cells,21,2603934
+1112 tumor.fcs/All Cells/Single Cells,80.5,2095324
+1112 tumor.fcs/All Cells/Single Cells/Single Cells,94.3,1976801
+1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live,48,949456
+1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,88.5,840092
+1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,89.7,753432
+1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,9.36,70508
+1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,11.2,84150
+"1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.00476,40
+"1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",85.3,716228
+"1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.74,39831
+"1112 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",10,83993
+1124 tumor.fcs,2935112,
+1124 tumor.fcs/All Cells,32,940514
+1124 tumor.fcs/All Cells/Single Cells,77.8,731580
+1124 tumor.fcs/All Cells/Single Cells/Single Cells,93.2,682121
+1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live,61.8,421619
+1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,92.7,390743
+1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,88.9,347470
+1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,52,180648
+1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,52,180648
+"1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.014,56
+"1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",79.3,309930
+"1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",11.2,43874
+"1124 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",10.1,39309
+1125 tumor.fcs,6478728,
+1125 tumor.fcs/All Cells,34,2199766
+1125 tumor.fcs/All Cells/Single Cells,78,1716700
+1125 tumor.fcs/All Cells/Single Cells/Single Cells,92,1578812
+1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live,64,1011067
+1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,78.2,790266
+1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,96.5,762668
+1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,20.1,153669
+1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,21.3,162634
+"1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.016,127
+"1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",92.5,730646
+"1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",5.06,39985
+"1125 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",2.47,19508
+1138 TUMOR.fcs,312528,
+1138 TUMOR.fcs/All Cells,25,78215
+1138 TUMOR.fcs/All Cells/Single Cells,72.2,56485
+1138 TUMOR.fcs/All Cells/Single Cells/Single Cells,87.6,49458
+1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live,34.7,17161
+1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,72.3,12399
+1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,93.1,11542
+1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,47.2,5452
+1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,49.2,5675
+"1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.89,110
+"1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",84.3,10449
+"1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",7.33,909
+"1138 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",7.51,931
+1139 TUMOR.fcs,1132248,
+1139 TUMOR.fcs/All Cells,49.3,558394
+1139 TUMOR.fcs/All Cells/Single Cells,67,374074
+1139 TUMOR.fcs/All Cells/Single Cells/Single Cells,81,302857
+1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live,73.1,221424
+1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,80.5,178328
+1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,61.1,109021
+1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,31.3,34097
+1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,33.2,36213
+"1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.34,603
+"1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",57.7,102850
+"1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.73,8438
+"1139 TUMOR.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",37.3,66437
+1163 tumor.fcs,4468984,
+1163 tumor.fcs/All Cells,64.4,2877293
+1163 tumor.fcs/All Cells/Single Cells,73.6,2117208
+1163 tumor.fcs/All Cells/Single Cells/Single Cells,90.3,1911287
+1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live,85.3,1631034
+1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,96.1,1567437
+1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,88.7,1389846
+1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,35.2,489127
+1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,38.2,530572
+"1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.15,2330
+"1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",80.4,1259467
+"1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",8.37,131195
+"1163 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",11.1,174445
+1164 tumor.fcs,7743680,
+1164 tumor.fcs/All Cells,31.1,2404521
+1164 tumor.fcs/All Cells/Single Cells,80.7,1940186
+1164 tumor.fcs/All Cells/Single Cells/Single Cells,92.2,1788856
+1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live,70.8,1266774
+1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,58.2,737644
+1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,98,722990
+1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,27.3,197717
+1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,29.3,212181
+"1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.016,117
+"1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",95.2,702235
+"1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",2.94,21705
+"1164 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",1.84,13587
+1165 tumor.fcs,12625968,
+1165 tumor.fcs/All Cells,30.5,3853972
+1165 tumor.fcs/All Cells/Single Cells,74.3,2863312
+1165 tumor.fcs/All Cells/Single Cells/Single Cells,91.5,2620489
+1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live,57.6,1508766
+1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,84.8,1279178
+1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,97.1,1241758
+1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,28.3,351196
+1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,30.6,380177
+"1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.018,235
+"1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",95,1214932
+"1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",2.44,31192
+"1165 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",2.57,32819
+1177 tumor.fcs,21072520,
+1177 tumor.fcs/All Cells,23.9,5037683
+1177 tumor.fcs/All Cells/Single Cells,70.5,3550988
+1177 tumor.fcs/All Cells/Single Cells/Single Cells,92.2,3275402
+1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live,26.9,882319
+1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,63.3,558779
+1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,95,530964
+1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,18.6,98940
+1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,21,111311
+"1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.088,490
+"1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",93.4,522080
+"1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",2.14,11954
+"1177 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",4.34,24255
+1178 tumor.fcs,17187424,
+1178 tumor.fcs/All Cells,18.4,3166871
+1178 tumor.fcs/All Cells/Single Cells,71.6,2266437
+1178 tumor.fcs/All Cells/Single Cells/Single Cells,89.6,2030151
+1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live,36.6,743686
+1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,85.9,638772
+1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,89.7,573020
+1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,26.8,153311
+1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,29.7,170353
+"1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.036,229
+"1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",86.3,551528
+"1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.05,25894
+"1178 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",9.57,61121
+1179 tumor.fcs,3027728,
+1179 tumor.fcs/All Cells,13.5,407318
+1179 tumor.fcs/All Cells/Single Cells,87.2,355282
+1179 tumor.fcs/All Cells/Single Cells/Single Cells,93.7,332796
+1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live,2.17,7225
+1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,25.7,1858
+1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,95.5,1774
+1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,22.7,403
+1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,23.8,423
+"1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.054,1
+"1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",86.4,1606
+"1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",7.53,140
+"1179 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",5.97,111
+1180 tumor.fcs,3611032,
+1180 tumor.fcs/All Cells,23.1,835817
+1180 tumor.fcs/All Cells/Single Cells,81.4,680629
+1180 tumor.fcs/All Cells/Single Cells/Single Cells,92.4,629047
+1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live,47.1,296176
+1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,92.3,273277
+1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,96.7,264368
+1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,22.2,58663
+1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,24,63334
+"1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.032,87
+"1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",90.2,246608
+"1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",6.89,18837
+"1180 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",2.83,7745
+1182 tumor.fcs,13375984,
+1182 tumor.fcs/All Cells,25,3337907
+1182 tumor.fcs/All Cells/Single Cells,79.5,2654335
+1182 tumor.fcs/All Cells/Single Cells/Single Cells,94.4,2504472
+1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live,37.7,943156
+1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,72,679417
+1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,92.7,629545
+1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,30.3,190500
+1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,33.3,209570
+"1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.00942,64
+"1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",90.6,615740
+"1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.44,30169
+"1182 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",4.92,33444
+1183 tumor.fcs,9465152,
+1183 tumor.fcs/All Cells,27.5,2607565
+1183 tumor.fcs/All Cells/Single Cells,73.7,1921031
+1183 tumor.fcs/All Cells/Single Cells/Single Cells,91.4,1755318
+1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live,69.6,1221827
+1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,95.6,1168018
+1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,85.7,1000605
+1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,34.8,348195
+1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,38.8,388672
+"1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.014,164
+"1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",82.1,958407
+"1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.49,52411
+"1183 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",13.4,157043
+1184 tumor.fcs,22765344,
+1184 tumor.fcs/All Cells,19.7,4483656
+1184 tumor.fcs/All Cells/Single Cells,84.1,3770851
+1184 tumor.fcs/All Cells/Single Cells/Single Cells,95.9,3617868
+1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live,0.75,27149
+1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,45.5,12357
+1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,91.1,11253
+1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,3.75,422
+1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,4.36,491
+"1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.17,21
+"1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",87,10749
+"1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.61,570
+"1184 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",8.23,1017
+1185 tumor.fcs,2883064,
+1185 tumor.fcs/All Cells,18.7,538189
+1185 tumor.fcs/All Cells/Single Cells,74.5,400724
+1185 tumor.fcs/All Cells/Single Cells/Single Cells,92.9,372236
+1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live,21.9,81457
+1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,75.3,61329
+1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,82,50290
+1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,22.8,11484
+1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,23.9,12018
+"1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.61,374
+"1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",77.3,47378
+"1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",5.94,3646
+"1185 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",16.2,9931
+1186 tumor.fcs,4882640,
+1186 tumor.fcs/All Cells,14.3,696226
+1186 tumor.fcs/All Cells/Single Cells,64.4,448067
+1186 tumor.fcs/All Cells/Single Cells/Single Cells,89.3,400242
+1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live,11.8,47080
+1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,50.6,23817
+1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,89.8,21379
+1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,51.6,11028
+1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,53.5,11439
+"1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.55,132
+"1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",85.6,20395
+"1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.07,969
+"1186 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",9.75,2321
+1188 tumor.fcs,17678600,
+1188 tumor.fcs/All Cells,23,4073227
+1188 tumor.fcs/All Cells/Single Cells,72.1,2937820
+1188 tumor.fcs/All Cells/Single Cells/Single Cells,91.9,2699406
+1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live,8.1,218541
+1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,88.8,194071
+1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,95.4,185203
+1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,39.7,73516
+1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,44.3,81954
+"1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.072,139
+"1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",91.7,177883
+"1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.97,9653
+"1188 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",3.3,6396
+1189 tumor.fcs,13011456,
+1189 tumor.fcs/All Cells,31.9,4148629
+1189 tumor.fcs/All Cells/Single Cells,66.5,2759030
+1189 tumor.fcs/All Cells/Single Cells/Single Cells,89.3,2462903
+1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live,55.2,1360044
+1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,94.5,1285785
+1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,91.3,1173716
+1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,32.3,379301
+1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,64,750925
+"1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.071,910
+"1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",80,1028794
+"1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",11.6,148638
+"1189 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",8.36,107443
+1192 tumor.fcs,6973188,
+1192 tumor.fcs/All Cells,48.6,3387953
+1192 tumor.fcs/All Cells/Single Cells,86.4,2928460
+1192 tumor.fcs/All Cells/Single Cells/Single Cells,95.1,2786276
+1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live,87.8,2445490
+1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,95.8,2341828
+1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,82.1,1923713
+1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,11.3,216932
+1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,13.4,256902
+"1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.015,349
+"1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",77.2,1807938
+"1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",6.47,151598
+"1192 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",16.3,381943
+1193 tumor.fcs,9658400,
+1193 tumor.fcs/All Cells,45.9,4433479
+1193 tumor.fcs/All Cells/Single Cells,58.9,2609138
+1193 tumor.fcs/All Cells/Single Cells/Single Cells,89.9,2346581
+1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live,85.6,2008024
+1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,94.3,1893179
+1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,84.2,1594864
+1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,43.5,693116
+1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,46.5,742219
+"1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.054,1017
+"1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",78.9,1494585
+"1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",8.95,169469
+"1193 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",12,228108
+1194 tumor.fcs,8059872,
+1194 tumor.fcs/All Cells,69,5560954
+1194 tumor.fcs/All Cells/Single Cells,67.2,3737662
+1194 tumor.fcs/All Cells/Single Cells/Single Cells,93.4,3491852
+1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live,79,2759096
+1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,97.4,2686504
+1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,95.5,2566404
+1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,21.3,546043
+1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,53.7,1378507
+"1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.01,280
+"1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",90.7,2437255
+"1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",5.77,154953
+"1194 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",3.5,94016
+1195 tumor.fcs,16488392,
+1195 tumor.fcs/All Cells,27,4448150
+1195 tumor.fcs/All Cells/Single Cells,78,3470198
+1195 tumor.fcs/All Cells/Single Cells/Single Cells,92.7,3217800
+1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live,61.8,1989471
+1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,95.7,1903072
+1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,91.8,1746412
+1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,8.01,139840
+1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,72.3,1262732
+"1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.028,526
+"1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",89,1693967
+"1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",4.09,77875
+"1195 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",6.87,130704
+1196 tumor.fcs,7072080,
+1196 tumor.fcs/All Cells,31.3,2210874
+1196 tumor.fcs/All Cells/Single Cells,71.8,1586439
+1196 tumor.fcs/All Cells/Single Cells/Single Cells,90.8,1441169
+1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live,59,850856
+1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,93.4,794626
+1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,89.3,709441
+1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,9.77,69325
+1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,39.4,279269
+"1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.044,346
+"1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",86,683379
+"1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",5.58,44378
+"1196 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",8.37,66523
+1201 tumor.fcs,12650936,
+1201 tumor.fcs/All Cells,50.7,6410570
+1201 tumor.fcs/All Cells/Single Cells,43.4,2785265
+1201 tumor.fcs/All Cells/Single Cells/Single Cells,85.7,2386832
+1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live,79.1,1887908
+1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,91,1717746
+1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,94.9,1629989
+1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,45.4,739221
+1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,46.6,759793
+"1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.068,1168
+"1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",79.8,1371455
+"1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",14.6,251361
+"1201 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",5.46,93762
+1202 tumor.fcs,17288712,
+1202 tumor.fcs/All Cells,35.2,6092005
+1202 tumor.fcs/All Cells/Single Cells,59.8,3643090
+1202 tumor.fcs/All Cells/Single Cells/Single Cells,86.6,3156009
+1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live,53.5,1687616
+1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,90.9,1533547
+1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,96.7,1482469
+1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,25.4,376234
+1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,37.3,552306
+"1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.023,353
+"1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",90.3,1384562
+"1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",6.32,96990
+"1202 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",3.37,51642
+1203 tumor.fcs,10532712,
+1203 tumor.fcs/All Cells,55.4,5838367
+1203 tumor.fcs/All Cells/Single Cells,48.4,2826574
+1203 tumor.fcs/All Cells/Single Cells/Single Cells,88.2,2494364
+1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live,74,1845597
+1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,94.8,1749143
+1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,91.9,1608148
+1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,42.3,680170
+1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,53.3,857943
+"1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.11,1861
+"1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",89.8,1569902
+"1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",3.3,57696
+"1203 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",6.84,119684
+1204 tumor.fcs,24767968,
+1204 tumor.fcs/All Cells,30.2,7481847
+1204 tumor.fcs/All Cells/Single Cells,61,4562073
+1204 tumor.fcs/All Cells/Single Cells/Single Cells,88.6,4041203
+1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live,38.6,1559902
+1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,93.9,1465064
+1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,93.1,1363839
+1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,32.9,448283
+1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,44.2,603428
+"1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.045,653
+"1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",87.2,1276898
+"1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",6.37,93322
+"1204 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",6.43,94191
+1205 tumor.fcs,11242088,
+1205 tumor.fcs/All Cells,43.9,4936845
+1205 tumor.fcs/All Cells/Single Cells,54.8,2704906
+1205 tumor.fcs/All Cells/Single Cells/Single Cells,89.2,2412454
+1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live,65,1568710
+1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,95.3,1495299
+1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,88.2,1319522
+1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,29.6,389978
+1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,30.5,402980
+"1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.15,2307
+"1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",81.3,1216276
+"1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",7.16,107067
+"1205 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",11.3,169709
+1206 tumor.fcs,14879120,
+1206 tumor.fcs/All Cells,34.1,5077444
+1206 tumor.fcs/All Cells/Single Cells,67.2,3410924
+1206 tumor.fcs/All Cells/Single Cells/Single Cells,89,3035642
+1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live,64.4,1956466
+1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,89.3,1746914
+1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,93.8,1638045
+1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,18.8,307432
+1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,36,589697
+"1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.013,220
+"1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",77.9,1360404
+"1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",16.7,291317
+"1206 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",5.44,94973
+1207 tumor.fcs,14419192,
+1207 tumor.fcs/All Cells,40.3,5807050
+1207 tumor.fcs/All Cells/Single Cells,62.7,3638367
+1207 tumor.fcs/All Cells/Single Cells/Single Cells,84.8,3084619
+1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live,53.1,1639213
+1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,94.6,1550768
+1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,86.6,1343559
+1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,32.2,432068
+1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,52.3,702337
+"1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.04,617
+"1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",69.8,1083186
+"1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",18.1,280477
+"1207 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",12,186488
+1208 tumor.fcs,14615496,
+1208 tumor.fcs/All Cells,33.8,4938803
+1208 tumor.fcs/All Cells/Single Cells,71.5,3530753
+1208 tumor.fcs/All Cells/Single Cells/Single Cells,88.4,3120667
+1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live,53.6,1672651
+1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,97.3,1627028
+1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,93.6,1522180
+1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,30,456405
+1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,58.8,895636
+"1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.00553,90
+"1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",78.5,1277581
+"1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",12.6,204240
+"1208 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",8.92,145117
+1210 tumor.fcs,11076504,
+1210 tumor.fcs/All Cells,57.6,6381287
+1210 tumor.fcs/All Cells/Single Cells,41.8,2667773
+1210 tumor.fcs/All Cells/Single Cells/Single Cells,77.8,2075998
+1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live,86.1,1787301
+1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,92.6,1654342
+1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,94.8,1567518
+1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,56.1,880033
+1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,57.9,907443
+"1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.075,1238
+"1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",93.7,1549804
+"1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",2.01,33179
+"1210 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",4.24,70121
+1211 tumor.fcs,12781472,
+1211 tumor.fcs/All Cells,26.2,3351513
+1211 tumor.fcs/All Cells/Single Cells,67.9,2276509
+1211 tumor.fcs/All Cells/Single Cells/Single Cells,90.6,2061963
+1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live,35.6,734492
+1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,95.1,698295
+1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,95.7,668492
+1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,21.5,143781
+1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,37.5,250356
+"1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.041,289
+"1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",75.5,527320
+"1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",20.4,142149
+"1211 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",4.09,28537
+1212 tumor.fcs,12408800,
+1212 tumor.fcs/All Cells,23,2852030
+1212 tumor.fcs/All Cells/Single Cells,69.3,1976204
+1212 tumor.fcs/All Cells/Single Cells/Single Cells,91.3,1803675
+1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live,35.6,642796
+1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,88.9,571654
+1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,97.8,558868
+1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,21.6,120576
+1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,22.3,124494
+"1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.051,294
+"1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",82,469012
+"1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",14.9,84959
+"1212 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",3.04,17389
+1213 tumor.fcs,10188272,
+1213 tumor.fcs/All Cells,44.9,4571583
+1213 tumor.fcs/All Cells/Single Cells,51.9,2370770
+1213 tumor.fcs/All Cells/Single Cells/Single Cells,81.3,1928576
+1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live,75.8,1461360
+1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,82.4,1204569
+1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,95.3,1147948
+1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,49.3,565918
+1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,51.3,588572
+"1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.072,869
+"1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",94.3,1135673
+"1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",1.96,23573
+"1213 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",3.69,44454
+1214 tumor.fcs,11292464,
+1214 tumor.fcs/All Cells,35.4,4000940
+1214 tumor.fcs/All Cells/Single Cells,62.4,2495503
+1214 tumor.fcs/All Cells/Single Cells/Single Cells,83.5,2083193
+1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live,75.2,1567112
+1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,87.3,1367565
+1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,93.7,1281150
+1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,42.8,548951
+1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,44.7,572317
+"1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.024,328
+"1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",90.9,1243289
+"1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",3.83,52446
+"1214 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",5.23,71502
+1239 tumor.fcs,11173821,
+1239 tumor.fcs/All Cells,56.7,6334069
+1239 tumor.fcs/All Cells/Single Cells,47.8,3026229
+1239 tumor.fcs/All Cells/Single Cells/Single Cells,85.5,2588574
+1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live,82.1,2124867
+1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,92.1,1957519
+1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,94.5,1850779
+1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,41.8,774021
+1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,43.2,798801
+"1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.015,290
+"1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , f480+",0.015,290
+"1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",86.1,1684915
+"1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , f480+",86.1,1684915
+"1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",8.6,168288
+"1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , f480-",8.6,168288
+"1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",5.32,104044
+"1239 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , f480-",5.32,104044
+1240 tumor.fcs,14089890,
+1240 tumor.fcs/All Cells,55.2,7783945
+1240 tumor.fcs/All Cells/Single Cells,44.3,3452085
+1240 tumor.fcs/All Cells/Single Cells/Single Cells,86.1,2973929
+1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live,67.2,1999816
+1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,90.3,1806812
+1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,95.1,1718541
+1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,50.2,863471
+1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,51.9,891599
+"1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.0088,159
+"1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",87.8,1586116
+"1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",7.71,139235
+"1240 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",4.5,81302
+1243 tumor.fcs,6631022,
+1243 tumor.fcs/All Cells,76.3,5056257
+1243 tumor.fcs/All Cells/Single Cells,62.1,3139187
+1243 tumor.fcs/All Cells/Single Cells/Single Cells,88.3,2770658
+1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live,92.8,2570405
+1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,96.5,2481370
+1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,93,2307158
+1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,67.5,1558205
+1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,71.6,1651099
+"1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.021,519
+"1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",92.9,2305927
+"1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",2.49,61853
+"1243 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",4.56,113071
+1244 Tumor.fcs,8306485,
+1244 Tumor.fcs/All Cells,31.5,2612732
+1244 Tumor.fcs/All Cells/Single Cells,60.4,1579014
+1244 Tumor.fcs/All Cells/Single Cells/Single Cells,48.9,772548
+1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live,61,471459
+1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,91.4,430835
+1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,88.1,379483
+1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,0.6,2271
+1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,38.9,147756
+"1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.12,500
+"1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",59,254170
+"1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",30.1,129774
+"1244 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",10.8,46391
+1245 tumor.fcs,8564464,
+1245 tumor.fcs/All Cells,57.5,4927505
+1245 tumor.fcs/All Cells/Single Cells,63,3106394
+1245 tumor.fcs/All Cells/Single Cells/Single Cells,91.6,2844039
+1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live,75.7,2152975
+1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,97,2088745
+1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,88,1838659
+1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,64.1,1178375
+1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,93.2,1714381
+"1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.0046,96
+"1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",88.3,1844254
+"1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",9.06,189174
+"1245 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",2.64,55221
+1249 tumor.fcs,6898754,
+1249 tumor.fcs/All Cells,49,3379033
+1249 tumor.fcs/All Cells/Single Cells,67.5,2279318
+1249 tumor.fcs/All Cells/Single Cells/Single Cells,90.7,2066591
+1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live,56.8,1173399
+1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,96.2,1128409
+1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,92.8,1047546
+1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,39,408719
+1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,42.8,448736
+"1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.00425,48
+"1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",90.1,1016633
+"1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",3.08,34794
+"1249 tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",6.82,76934
+1252 Tumor.fcs,6798993,
+1252 Tumor.fcs/All Cells,32.4,2201791
+1252 Tumor.fcs/All Cells/Single Cells,71.2,1567314
+1252 Tumor.fcs/All Cells/Single Cells/Single Cells,73.7,1154846
+1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live,60.5,698328
+1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,88.6,618572
+1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,93.6,578715
+1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,0.83,4799
+1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,53,306430
+"1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.079,487
+"1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",69.9,432294
+"1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",24.1,149307
+"1252 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",5.9,36484
+1253 Tumor.fcs,7512604,
+1253 Tumor.fcs/All Cells,40.3,3028811
+1253 Tumor.fcs/All Cells/Single Cells,67.6,2048665
+1253 Tumor.fcs/All Cells/Single Cells/Single Cells,81.1,1661159
+1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live,48.8,810399
+1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+,95.4,772930
+1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+,80.8,624710
+1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+,28.7,179265
+1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/CD11b+/F4 80+ Macs,64.7,404414
+"1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q1: CD11b- , F4 80+",0.32,2483
+"1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q2: CD11b+ , F4 80+",70.6,545929
+"1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q3: CD11b+ , F4 80-",15.5,120133
+"1253 Tumor.fcs/All Cells/Single Cells/Single Cells/Live/CD45+/Q4: CD11b- , F4 80-",13.5,104385
