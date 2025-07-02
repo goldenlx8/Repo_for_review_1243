@@ -1,5 +1,4 @@
-# title: "MS OPAL SPONTANEOUS TRM CELL % ANALYSIS"
-# author: "EMMA KENNA (ekenna@umich.edu)"
+# This file was used to analyze and generate figures for the mIHC OPAL TRM panel
 
 ### LIBRARIES
 library(tidyverse)
