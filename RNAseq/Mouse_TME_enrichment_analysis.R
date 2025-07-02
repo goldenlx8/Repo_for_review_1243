@@ -1,3 +1,5 @@
+# This file contains the reanalysis for RNAseq of TME enrichment analysis
+
 # setup -------------------------------------------------------------------
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
