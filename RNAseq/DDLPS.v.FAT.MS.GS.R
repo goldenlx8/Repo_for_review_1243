@@ -1,5 +1,4 @@
-title: "LPS MMM REVISIONS - DDLPS v FAT MS GENE SIGNATURE on HUMAN DDLPS & NF"
-author: "EMMA KENNA (ekenna@umich.edu)"
+# This analysis contains the reanalysis of the DDLPS v FAT MS GENE SIGNATURE on HUMAN DDLPS & NF
 
 # SET DIRECTORY & LOAD PACKAGES -------------------------------------------
 
